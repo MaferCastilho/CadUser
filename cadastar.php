@@ -17,6 +17,4 @@ echo "<h3>Senha: A senha é secreta</h3>";
 // Insert Into = Inserir na tabela do phpmydimin
 $cad_usuario = "INSERT INTO usuario(nome, email, senha) VALUES ('$nome','$email','$senha')";
 
-
-
 ?>
